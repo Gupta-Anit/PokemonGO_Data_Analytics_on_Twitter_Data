@@ -1,0 +1,17 @@
+pyspark
+pandas
+numpy
+nltk
+statsmodels
+pyldavis
+pygal
+plotly
+matplotlib
+seaborn
+geopy
+googletrans
+bokeh
+ipywidgets
+ipython
+progressbar2
+azure-storage-blob

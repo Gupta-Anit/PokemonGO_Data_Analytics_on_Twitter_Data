@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+
+# OS
+.DS_Store
